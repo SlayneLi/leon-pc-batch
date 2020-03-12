@@ -1,3 +1,4 @@
+@echo off
 net start MSSQLFDLauncher
 net start MSSQLSERVER
 net start SQLSERVERAGENT

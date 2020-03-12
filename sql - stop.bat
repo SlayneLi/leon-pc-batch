@@ -1,3 +1,4 @@
+@echo off
 net stop MSSQLFDLauncher
 net stop MSSQLSERVER
 net stop SQLSERVERAGENT

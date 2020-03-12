@@ -1,3 +1,4 @@
+@echo off
 net stop VMAuthdService
 net stop VMnetDHCP
 net stop "VMware NAT Service"
